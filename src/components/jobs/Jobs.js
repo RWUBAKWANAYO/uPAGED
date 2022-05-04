@@ -33,12 +33,12 @@ class Jobs extends Component {
   render() {
     const { data, loading } = this.state;
     return (
-      <div>
+      <div className="job-container">
         <Navbar />
         {
           loading === true && data
             ? (
-              <div>
+              <div className="job-wrapper">
 
                 <JobShifts Props={data[0]} />
                 <Pagination />
