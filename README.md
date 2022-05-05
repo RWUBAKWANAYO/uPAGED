@@ -10,6 +10,9 @@
 - Reactjs
 - SASS
 - font-awesome for icons
+- Node js
+- Postgress
+- Heroku
 
 ## Authors
 :bust_in_silhouette: **Author**
