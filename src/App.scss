@@ -7,16 +7,14 @@ body {
 	margin: 0;
 	padding: 0;
 }
+
 body {
 	background-color: $light-gray;
 	font-family: $mont-serrat;
 	font-size: $page-font-size;
 }
+
 .App {
 	width: 100%;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
 	margin-bottom: 8rem;
 }
-

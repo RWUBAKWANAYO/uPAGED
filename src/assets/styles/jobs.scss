@@ -1,3 +1,12 @@
+.job-container {
+	width: 100%;
+}
+.job-wrapper {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
 .jobshifts-cont {
 	color: $primary-blue;
 	width: calc(100% - 5%);
