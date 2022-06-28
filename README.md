@@ -1,5 +1,7 @@
 # uPAGED
 
+>'uPAGED' is a website that shows you available jobs and jobs you have been invited to. It also contains information such as ratings and locations.
+
 ![Screenshot (1237)](https://user-images.githubusercontent.com/68381641/166338303-07e88700-731d-45d7-aabe-4dc56f9d7ee0.png)
 
 ![Screenshot (1240)](https://user-images.githubusercontent.com/68381641/166339120-50d9c862-804a-4a84-a4e3-3c927c2cfd91.png)
@@ -8,17 +10,17 @@
 
 ## Built with:
 - Reactjs
+- Redux
 - SASS
 - font-awesome for icons
-- Node js
-- Postgress
-- Heroku
 
 ## Authors
-:bust_in_silhouette: **Author**
+:bust_in_silhouette: **RWUBAKWANAYO**
 - GitHub: [@githubrwubakwanayo](https://github.com/RWUBAKWANAYO)
 - LinkedIn: [Rwubakwanayo](https://www.linkedin.com/in/rwubakwanayo-olivier)
 ## :handshake: Contributing
+:bust_in_silhouette: **JOSUE**
+- GitHub: [@key-joshua](https://github.com/key-joshua)
 
 Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](../../issues/).
